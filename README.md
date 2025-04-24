@@ -1,7 +1,7 @@
 # 📝 To-Do App (Python)
 
 This is a simple **To-Do List Application** written in Python. It includes three user interfaces: **Command Line (CLI)**, **Graphical User Interface (GUI)** using PySimpleGUI, and a **Web Interface** built with Streamlit.
-
+The executable app is on standalone_exe/dist/gui.exe
 ---
 
 ## 🚀 Features
